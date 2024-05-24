@@ -14,10 +14,9 @@ http://www.exemple.com
 http://play.exemple.com
 http://tokenized.exemple.com
 http://status.exemple.com
-
 http://sandbox.exemple.com
-
 http://app.ddl-autopush.exemple.com
-
 http://app.exemple.com
-[![Video](<VIDEO_URL>)]https://raw.githubusercontent.com/Jhonsonwannaa/subfinder-by-leakix/main/Capture.PNG>)
+
+
+<img src="https://raw.githubusercontent.com/Jhonsonwannaa/subfinder-by-leakix/main/Capture.PNG" alt="Alt Text">
