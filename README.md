@@ -4,20 +4,15 @@
 
 usage:  python3 subfinder-by-leakix.py -domain exemple.com -number 10 -api xxxxxx
 
-Les sous domaines de cet url https://exemple.com sont :
+Scan .................. :
+
  
 http://admin.exemple.com
-
 http://blog.exempl4.com
-
 http://registry.exemple.com
-
 http://www.exemple.com
-
 http://play.exemple.com
-
 http://tokenized.exemple.com
-
 http://status.exemple.com
 
 http://sandbox.exemple.com
