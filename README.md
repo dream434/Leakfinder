@@ -20,4 +20,4 @@ http://sandbox.exemple.com
 http://app.ddl-autopush.exemple.com
 
 http://app.exemple.com
-[![Video](<VIDEO_URL>)]https://github.com/Jhonsonwannaa/subfinder-by-leakix/leakfinder.mp4>)
+[![Video](<VIDEO_URL>)]https://raw.githubusercontent.com/Jhonsonwannaa/subfinder-by-leakix/main/Capture.PNG>)
