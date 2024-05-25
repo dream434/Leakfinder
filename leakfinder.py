@@ -20,7 +20,7 @@ def main(domain, number,api):
       r=requests.get(url,headers=headers)
       if r.status_code==200:
          dict = json.loads(r.text)
-         console.print(f'Scan .................. :\n ', style='green')
+         console.print(f'\n ', style='green')
 
          for i in range(0,number):
             
