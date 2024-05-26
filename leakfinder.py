@@ -51,7 +51,7 @@ if __name__=='__main__':
                   help="10", required=True)
          
          parser.add_argument("-api", "--api", dest="api",
-                  help="leakix-api", required=True)
+                  help="leakix-api", required=False)
 
          
          args = parser.parse_args()
