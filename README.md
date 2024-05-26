@@ -7,4 +7,4 @@ usage:  python3 subfinder-by-leakix.py -domain exemple.com -number 10 -api xxxxx
 
 
 
-<img src="capture.png" alt="Image description" width="470" height="290">
+<img src="capture.PNG" alt="Image description" width="470" height="290">
