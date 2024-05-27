@@ -9,3 +9,4 @@ python3 leakfinder.py -domain exemple.com -number 10 -api xxxxxx
 <img src="capture.PNG" alt="Image description" width="470" height="290">
 
 # Disclaimer <img src="OIP.jpg" alt="Image description" width="85" height="65">
+Please make good use of this tool
