@@ -1,6 +1,6 @@
 # leakfinder
 
-# Requirements [](U+1F4D6)
+# Requirements [ico.png](U+1F4D6)
 pip install -r requirements.txt
 
 # Usage
