@@ -1,6 +1,6 @@
 # leakfinder
 
-# Requirements ![](ico.jpg)(10, 5)
+# Requirements <img src="ico.jpg" alt="Image description" width="5" height="5">
 pip install -r requirements.txt
 
 # Usage
