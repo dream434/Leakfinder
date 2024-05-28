@@ -36,10 +36,10 @@ Please make good use of this tool
 <body>
     <p>Voici un exemple de code <code>curl</code> :</p>
     <pre><code>curl -H 'accept: application/json' "https://leakix.net/api/subdomains/domain.com"</code></pre>
-    <p>Remplacez <code>domain.com</code> par le domaine que vous souhaitez interroger.</p>
+   
 </body>
 </html>
 
 
-> curl -H 'accept: application/json' https://leakix.net/api/subdomains/domain.com
+
 
