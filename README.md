@@ -21,7 +21,7 @@ Please make good use of this tool
   
 
 
-    <pre><code>curl -H 'accept: application/json' "https://leakix.net/api/subdomains/domain.com"</code></pre>
+ curl -H 'accept: application/json' "https://leakix.net/api/subdomains/domain.com"
    
 
 </html>
