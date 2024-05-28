@@ -19,11 +19,11 @@ Please make good use of this tool
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
   
-<body>
+
 
     <pre><code>curl -H 'accept: application/json' "https://leakix.net/api/subdomains/domain.com"</code></pre>
    
-</body>
+
 </html>
 
 
