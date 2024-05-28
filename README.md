@@ -12,5 +12,7 @@ python3 leakfinder.py -domain exemple.com -number 10 -api xxxxxx
 Please make good use of this tool
 
 # Poc Orgin
+## Obtenir les sous-domaines d'un domaine avec l'API LeakIX
 
 curl -H 'accept: application/json' "https://leakix.net/api/subdomains/domain.com"
+
