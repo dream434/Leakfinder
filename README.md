@@ -13,4 +13,4 @@ Please make good use of this tool
 
 # Poc Orgin
 
-curl -H 'accept: application/json' "https://leakix.net/api/subdomains/leakix.net"
+curl -H 'accept: application/json' "https://leakix.net/api/subdomains/doamin.com"
