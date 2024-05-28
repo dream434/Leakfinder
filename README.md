@@ -17,7 +17,7 @@ Please make good use of this tool
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page HTML avec Couleur de Fond</title>
+    
     <style>
         body {
             background-color: #f0f0f0; /* Couleur de fond */
