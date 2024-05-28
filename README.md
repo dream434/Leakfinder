@@ -1,6 +1,6 @@
 # leakfinder
 
-# Install <img src="ico.jpg" alt="Image description" width="65" height="45">
+# Install 🚀: <img src="ico.jpg" alt="Image description" width="65" height="45">
 
 
 <code>git clone https://github.com/Jhonsonwannaa/Leakfinder </code>
