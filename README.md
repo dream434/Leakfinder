@@ -10,3 +10,7 @@ python3 leakfinder.py -domain exemple.com -number 10 -api xxxxxx
 
 # Disclaimer <img src="OIP.jpg" alt="Image description" width="85" height="65">
 Please make good use of this tool
+
+# Poc Orginal
+
+curl -H 'accept: application/json' "https://leakix.net/api/subdomains/leakix.net"
