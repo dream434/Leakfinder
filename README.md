@@ -18,23 +18,9 @@ Please make good use of this tool
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <style>
-        body {
-            background-color: #f0f0f0; /* Couleur de fond */
-            color: #333; /* Couleur du texte */
-            font-family: Arial, sans-serif;
-            padding: 20px;
-            margin: 0;
-        }
-        code {
-            background-color: #e6e6e6; /* Couleur de fond du code */
-            padding: 2px 5px;
-            border-radius: 3px;
-        }
-    </style>
-</head>
+  
 <body>
-    <p>Voici un exemple de code <code>curl</code> :</p>
+
     <pre><code>curl -H 'accept: application/json' "https://leakix.net/api/subdomains/domain.com"</code></pre>
    
 </body>
