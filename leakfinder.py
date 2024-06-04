@@ -12,7 +12,14 @@ def banner():
    taille=10000
    banner = str(pyfiglet.figlet_format(text, font,width=taille))
    console=Console()
-   print(Fore.YELLOW+ Style.BRIGHT + f'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\n\n              {banner}\n                  Author:Jhonson\n                  Email:wannaajhonson@gmail.com\n\n                  leakix_subdomain_finder\nMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\n'+ Style.RESET_ALL)
+   ban='''   __               __   _______           __         
+   / /   ___  ____ _/ /__/ ____(_)___  ____/ /__  _____
+  / /   / _ \/ __ `/ //_/ /_  / / __ \/ __  / _ \/ ___/
+ / /___/  __/ /_/ / ,< / __/ / / / / / /_/ /  __/ /    
+/_____/\___/\__,_/_/|_/_/   /_/_/ /_/\__,_/\___/_/     
+                                     Author:Jhonson   
+'''                                     
+   print(Fore.YELLOW+ Style.BRIGHT + ban+ Style.RESET_ALL)
 
 banner()
 def main(domain, number,api):
