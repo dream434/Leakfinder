@@ -12,7 +12,7 @@
 
 <code>python3 leakfinder.py -domain exemple.com -number 10 -api xxxxxx</code>
 
-<img src="capture.PNG" alt="Image description" width="470" height="290">
+<img src="https://i.postimg.cc/0yz7MLvj/actu.png" alt="Image description" width="470" height="290">
 
 # Disclaimer ⚠️
 
