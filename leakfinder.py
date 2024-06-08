@@ -5,6 +5,8 @@ import urllib3
 from rich.console import Console
 import pyfiglet
 from colorama import Fore, Style
+import threading
+
 def banner():
 
    text = "leakfinder"
@@ -62,5 +64,12 @@ if __name__=='__main__':
 
          
          args = parser.parse_args()
-         main(args.domain,int(args.number),args.api)
 
+
+         thread = threading.Thread(target=main, args=(args.domain,int(args.number), args.api))
+         thread.start()
+         thread.join(timeout=2)
+
+
+         
+     
