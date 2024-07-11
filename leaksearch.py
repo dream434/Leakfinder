@@ -19,7 +19,7 @@ def main (url,number,header):
 
 if __name__ == '__main__':
 
-         parser = argparse.ArgumentParser(description="Subdomain-finder")
+         parser = argparse.ArgumentParser(description="file-finder")
          parser.add_argument("-search", "--search", dest="search",
                   help="", default=".DS_Store", required=True)
 
