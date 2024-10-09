@@ -3,7 +3,7 @@
 # Installation 📝
 
 
-<code>git clone https://github.com/Jhonsonwannaa/Leakfinder </code>
+<code>git clone https://github.com/dream434/Leakfinder </code>
 
 
 <code>pip install -r requirements.txt</code>
